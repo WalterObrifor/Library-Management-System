@@ -1,13 +1,15 @@
-# Library Management System (SQL Project)
+# Brain Point Library Management System (SQL Project)
 
 ## Project Title: Library Management System  
 ## Project Level: From Beginners Friendly To Advance  
 **Database**: `library_db`
 
-![Library_project](https://github.com/najirh/Library-System-Management---P2/blob/main/library.jpg)
+![Library_project](https://github.com/najirh/Library-System-Management---P2/blob/main/library.jp)|![](C:\Users\china\OneDrive\Desktop\Walter\Library-System-Management---P2)
 
 ## Introduction
-Brain Point Library is a newly established sector with branches This project demonstrates the implementation of a Library Management System using SQL. It includes creating and managing tables, performing CRUD operations, and executing advanced SQL queries. The goal is to showcase skills in database design, manipulation, and querying.
+Brain Point Library is a popular library with five branches across the state. Recently the manager has renovate all branches and restock them with all kinds of books and learning materials. Before now, the branch managers have been complaining of poor management decisions based on intuition or being optimistic. 
+as a newly employed data analysist, i was asked to update the databse of all branches and come up with analysis that will help business growth and inncrese in revenue. My analysis covers the implementation of a Library Management System using SQL, which includes creating and managing tables, performing CRUD (Create, Read, Upload, Delete) operations, performimg Exploratory DataAnalysis (EDA) and executing advanced SQL queries. 
+
 ## Objectives
 
 1. **Set up the Library Management System Database**: Create and populate the database with tables for branches, employees, members, books, issued status, and return status.
