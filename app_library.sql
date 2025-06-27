@@ -1,8 +1,8 @@
--- THIS ANALYSIS GOES FROM BEGINNER TO ADVANACE (ADVANCE STARTS FROM TASK 12)
+-- ##**THIS ANALYSIS GOES FROM BEGINNER TO ADVANACE (ADVANCE is in file lms_project_advanced_solution_2)**
 
--- Library System Management SQL Project
+-- ### Library System Management SQL Project
 
--- CREATE DATABASE library;
+-- ### CREATE DATABASE library;
 
 -- Create a table called "Branch"
 DROP TABLE IF EXISTS branch;
