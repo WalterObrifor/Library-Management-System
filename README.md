@@ -4,7 +4,8 @@
 ## Project Level: From Beginners Friendly To Advance  
 **Database**: `library_db`
 
-![Library_project](C:\Users\china\OneDrive\Desktop\Walter\Library-System-Management---P2)
+![Library_project](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.reganagency.com%2Flibrary-management-tips-for-success%2F&psig=AOvVaw2jdFyur2ANh05qAweJN_Cc&ust=1751131128614000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOCdkd-Sko4DFQAAAAAdAAAAABAa)
+
 
 ## Introduction
 Brain Point Library is a popular library with five branches across the state. Recently the manager has renovate all branches and restock them with all kinds of books and learning materials. Before now, the branch managers have been complaining of poor management decisions based on intuition or being optimistic. 
