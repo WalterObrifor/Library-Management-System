@@ -18,6 +18,16 @@ as a newly employed data analysist, i was asked to update the databse of all bra
 3. **CTAS (Create Table As Select)**: Utilize CTAS to create new tables based on query results.
 4. **Advanced SQL Queries**: Develop complex queries to analyze and retrieve specific data.
 
+### SQL Concept Applied
+1. **CRUD**
+2. **CTAS (Create Table As Select)**
+3. **Data Analysis & Findings**
+4. **SQL Presedure**
+5. **Testing Functions**
+
+## Dataset Info
+
+
 ## Project Structure
 
 ### 1. Database Setup
