@@ -8,18 +8,22 @@
 
 
 ## Introduction
-Brain Point Library is a popular library with five branches across the state. Recently the manager has renovate all branches and restock them with all kinds of books and learning materials. Before now, the branch managers have been complaining of poor management decisions based on intuition or being optimistic. 
-as a newly employed data analysist, i was asked to update the databse of all branches and come up with analysis that will help business growth and inncrese in revenue. My analysis covers the implementation of a Library Management System using SQL, which includes creating and managing tables, performing CRUD (Create, Read, Upload, Delete) operations, performimg Exploratory DataAnalysis (EDA) and executing advanced SQL queries. 
+Brain Point Library is a new popular library with five branches across the state. Recently the general manager has renovated all branches and restock them with all kinds of books and learning materials. Before now, the branch managers have been complaining of poor management decisions based on intuition or being optimistic. 
+As a newly employed data analysist, i was asked to update the database of all branches and come up with analysis that will help business growth and increase revenue. My analysis covers the implementation of a database Library Management System using PostgreSQL, which includes performing CRUD (Create, Read, Upload, Delete) operations, performimg Exploratory DataAnalysis (EDA) and executing advanced SQL queries. 
 
 ## Objectives
 
-1. **Set up the Library Management System Database**: Create and populate the database with tables for branches, employees, members, books, issued status, and return status.
-2. **CRUD Operations**: Perform Create, Read, Update, and Delete operations on the data.
-3. **CTAS (Create Table As Select)**: Utilize CTAS to create new tables based on query results.
-4. **Advanced SQL Queries**: Develop complex queries to analyze and retrieve specific data.
+1. **Set up the Library Management System Database**:
+   Create and populate the database with tables for branches, employees, members, books, issued status, and return status.
+2. **CRUD Operations**:
+   Perform Create, Read, Update, and Delete operations on the data.
+3. **CTAS (Create Table As Select)**:
+   Utilize CTAS to create new tables based on query results.
+4. **Advanced SQL Queries**:
+   Develop complex queries to analyze and retrieve specific data.
 
 ### SQL Concept Applied
-1. **CRUD**
+1. **CRUD** (Create, Read, Update, Delete)
 2. **CTAS (Create Table As Select)**
 3. **Data Analysis & Findings**
 4. **SQL Presedure**
