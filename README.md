@@ -4,7 +4,7 @@
 ## Project Level: From Beginners Friendly To Advance  
 **Database**: `library_db`
 
-![Library_project](https://github.com/najirh/Library-System-Management---P2/blob/main/library.jp)|![](C:\Users\china\OneDrive\Desktop\Walter\Library-System-Management---P2)
+![Library_project](C:\Users\china\OneDrive\Desktop\Walter\Library-System-Management---P2)
 
 ## Introduction
 Brain Point Library is a popular library with five branches across the state. Recently the manager has renovate all branches and restock them with all kinds of books and learning materials. Before now, the branch managers have been complaining of poor management decisions based on intuition or being optimistic. 
