@@ -1,4 +1,4 @@
--- ##**THIS ANALYSIS GOES FROM BEGINNER TO ADVANACE (ADVANCE is in file lms_project_advanced_solution_2)**
+##-- THIS ANALYSIS GOES FROM BEGINNER TO ADVANACE (ADVANCE is in file lms_project_advanced_solution_2)**
 
 -- ### Library System Management SQL Project
 
