@@ -1,6 +1,6 @@
 # Brain Point Library Management System (SQL Project)
 
-## Project Title: Library Management System  
+## Project Title: Brain Point Library Management System  
 ## Project Level: From Beginners Friendly To Advance  
 **Database**: `library_db`
 
@@ -8,10 +8,10 @@
 
 
 ## Introduction
-Brain Point Library is a new popular library with five branches across the state. Recently the general manager has renovated all branches and restock them with all kinds of books and learning materials. Before now, the branch managers have been complaining of poor management decisions based on intuition or being optimistic. 
-As a newly employed data analysist, i was asked to update the database of all branches and come up with analysis that will help business growth and increase revenue. My analysis covers the implementation of a database Library Management System using PostgreSQL, which includes performing CRUD (Create, Read, Upload, Delete) operations, performimg Exploratory DataAnalysis (EDA) and executing advanced SQL queries. 
+Brain Point Library is a new popular library with five branches across the state. Recently the general manager has renovated all branches and restock them with all kinds of books and learning materials. Before now, the branch managers had been complaining of poor management decisions based on intuition or being optimistic. 
+As a newly employed data analysist, i was asked to update the database for all branches and come up with analysis that would help for business growth and increase revenue. My analysis covers the implementation of a database Library Management System using PostgreSQL, which includes performing CRUD (Create, Read, Upload, Delete) operations, performing Exploratory Data Analysis (EDA) and executing advanced SQL queries. I was able to help Brain Point branch managers understand the trends of the business with facts but also increase revenue to 50% overtime. 
 
-## Objectives
+## Objectives (Problem Solving)
 
 1. **Set up the Library Management System Database**:
    Create and populate the database with tables for branches, employees, members, books, issued status, and return status.
