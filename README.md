@@ -46,17 +46,17 @@ As a newly employed data analysist, i was asked to update the database for all b
 
 
 ## Data Info 
-* **Books Table(36 rows, 7 columns)**
+* **Books Table(36 rows, 7 columns):**
 This table provides information of new and old book available in the all the granges.
-* **Branch Table (6 rows, 4 columns)**
+* **Branch Table (6 rows, 4 columns):**
 This table gives us understanding of each branch.
-* **Employees Table (12 rows, column 5)**
+* **Employees Table (12 rows, column 5):**
 This table provides information about the employees in Brain Point Library
-* **Issued Status Table (36 rows and 6 columns)**
+* **Issued Status Table (36 rows and 6 columns):**
 This column provides information on books that have been rented.
-* **Members Table (13 rows and 4 columns)**
+* **Members Table (13 rows and 4 columns):**
 This table provides information about customers coming to rent book from the library.
-* **Returned Status Table (19 rows, 5 columns):
+* **Returned Status Table (19 rows, 5 columns):**
 This table give details of books returned. 
 
 
@@ -527,10 +527,11 @@ This project demonstrates the application of SQL skills in creating and managing
 ## Author - Walter Obrifor
 
 This project showcases my PostgreSQL skills for database management and analysis. 
-To connect with me, kindly call me on +2349037580025 or 
+To connect with me, kindly call me on **+2349037580025** or 
 visit my LinkedIn for more information:
 
 - **LinkedIn**: [Visit my LinkedIn Page](https://www.linkedin.com/in/walter-o-1658b21a0?trk=contact-info)
 
 
-Thank you for your interest in this project. Im looking forward to hearing from you soonest!
+Thank you for your time and welcome to my portfolio.
+Im looking forward to hearing from you soonest!
