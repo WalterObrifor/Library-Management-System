@@ -33,29 +33,30 @@ As a newly employed data analysist, i was asked to update the database for all b
 * Find the top 3 employees who have processed the most book issues(books given out)
 * Provide a solution that updates the status of a book in the library based on its issuance
 
-![]()
+![17512847454761641125187132248859](https://github.com/user-attachments/assets/2f40276a-d3a5-4a98-b4cd-7675f285eb2c)
+
 
 
 ### SQL Skills Applied
-1. **CRUD** (Create, Read, Update, Delete)
-2. **CTAS (Create Table As Select)**
-3. **Basic and Advanced Data Analysis**
-4. **SQL Presedure**
-5. **Testing Functions**
+* **CRUD** (Create, Read, Update, Delete)
+*  **CTAS (Create Table As Select)**
+*  **Basic and Advanced Data Analysis**
+*  **SQL Presedure**
+*  **Testing Functions**
 
 
 ## Data Info 
-**Books Table(36 rows, 7 columns)**
-This table provides information of new and old book available in the all the granges. 
-**Branch Table (6 rows, 4 columns)**
-This table gives us understanding of each branch. 
-**Employees Table (12 rows, column 5)**
+* **Books Table(36 rows, 7 columns)**
+This table provides information of new and old book available in the all the granges.
+* **Branch Table (6 rows, 4 columns)**
+This table gives us understanding of each branch.
+* **Employees Table (12 rows, column 5)**
 This table provides information about the employees in Brain Point Library
-**Issued Status Table (36 rows and 6 columns)**
+* **Issued Status Table (36 rows and 6 columns)**
 This column provides information on books that have been rented.
-**Members Table (13 rows and 4 columns)**
+* **Members Table (13 rows and 4 columns)**
 This table provides information about customers coming to rent book from the library.
-**Returned Status Table (19 rows, 5 columns):
+* **Returned Status Table (19 rows, 5 columns):
 This table give details of books returned. 
 
 
