@@ -14,12 +14,38 @@ As a newly employed data analysist, i was asked to update the database for all b
 ## Objectives (Problem Solving)
 
 1. **Set up the Library Management System Database**:
-   Create and populate the database with tables for branches, employees, members, books, issued status, and return status.
+   Create a database with tables for branches, employees, members, books, issued status, and return status.
 2. **CRUD Operations**:
    Update all the new inventories into the database using CRUD operations (Create, Read, Update, and Delete).
+3. **Perform Basic Analysis**
+   Retrive all books in each catery
+   Find Total Rental Income by Category
+   _Find the Total Rental Income by Category_
+   _List Members Who Registered in the Last 180 Days_
+   _List Employees with Their Branch Manager's Name and their branch details_
+4. **Advanced Data Analysis**
+   Write a query to identify members who have overdue books (assume a 30-day return period). Display the member's_id, member's name, book title, issue date, and days overdue.
 
 
-3. Provide a solution that updates the status of a book in the library based on its issuance
+
+
+
+
+
+
+
+
+
+
+5. Provide a solution that updates the status of a book in the library based on its issuance
+
+
+6. Find the top 3 employees who have processed the most book issues(books given out)
+7. Create a new table to show active_members who have received at least one book in the last 12 months.
+8. Create a query that generates a performance report for each branch, showing the number of books issued, the number of books returned, and the total revenue generated from book rentals.
+9. Write a query to update the status of books in the books table to "Yes" when they are returned (based on entries in the return_status table).
+10. 
+
 
 
 
@@ -430,7 +456,7 @@ GROUP BY 1, 2
 ```
 
 
-**Task 19: Stored Procedure**
+**Task 18: Stored Procedure**
 Objective:
 Create a stored procedure to manage the status of books in a library system.
 Description:
@@ -512,6 +538,7 @@ This project showcases my PostgreSQL skills for database management and analysis
 To connect with me, kindly call me on +2349037580025 or 
 visit my LinkedIn for more information:
 
-- **LinkedIn**: [Connect with me professionally](https://https://www.linkedin.com/in/walter-o-1658b21a0?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- **LinkedIn**: [Visit my LinkedIn Page](https://www.linkedin.com/in/walter-o-1658b21a0?trk=contact-info)
+
 
 Thank you for your interest in this project. Im looking forward to hearing from you soonest!
