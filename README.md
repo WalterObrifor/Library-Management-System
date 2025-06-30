@@ -18,11 +18,11 @@ As a newly employed data analysist, i was asked to update the database for all b
 2. **CRUD Operations**:
    Update all the new inventories into the database using CRUD operations (Create, Read, Update, and Delete).
 3. **Perform Basic Analysis**
-   Retrive all books in each catery
-   Find Total Rental Income by Category
-   _Find the Total Rental Income by Category_
-   _List Members Who Registered in the Last 180 Days_
-   _List Employees with Their Branch Manager's Name and their branch details_
+* Retrive all books in each category
+* Find Total Rental Income by Category
+* Find the Total Rental Income by Category_
+* List Members Who Registered in the Last 180 Days_
+* List Employees with Their Branch Manager's Name and their branch details_
 4. **Advanced Data Analysis**
    Write a query to identify members who have overdue books (assume a 30-day return period). Display the member's_id, member's name, book title, issue date, and days overdue.
 
