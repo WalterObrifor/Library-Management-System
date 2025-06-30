@@ -1,4 +1,5 @@
-# Brain Point Library Management System (SQL Project)
+# Brain Point Library Management System 
+######(The techniques used for this project can be used for any business operation)
 
 ## Project Title: Brain Point Library Management System  
 ## Project Level: From Beginners Friendly To Advance  
@@ -24,30 +25,13 @@ As a newly employed data analysist, i was asked to update the database for all b
 * List Members Who Registered in the Last 180 Days_
 * List Employees with Their Branch Manager's Name and their branch details_
 4. **Advanced Data Analysis**
-   Write a query to identify members who have overdue books (assume a 30-day return period). Display the member's_id, member's name, book title, issue date, and days overdue.
-
-
-
-
-
-
-
-
-
-
-
-
-5. Provide a solution that updates the status of a book in the library based on its issuance
-
-
-6. Find the top 3 employees who have processed the most book issues(books given out)
-7. Create a new table to show active_members who have received at least one book in the last 12 months.
-8. Create a query that generates a performance report for each branch, showing the number of books issued, the number of books returned, and the total revenue generated from book rentals.
-9. Write a query to update the status of books in the books table to "Yes" when they are returned (based on entries in the return_status table).
-10. 
-
-
-
+* Write a query to identify members who have overdue books (assume a 30-day return period).
+* Display the member's_id, member's name, book title, issue date, and days overdue.
+* Write a query to update the status of books in the books table to "Yes" when they are returned (based on entries in the return_status table).
+* Create a query that generates a performance report for each branch, showing the number of books issued, the number of books returned, and the total revenue generated from book rentals.
+* Create a new table to show active_members who have received at least one book in the last 12 months.
+* Find the top 3 employees who have processed the most book issues(books given out)
+* Provide a solution that updates the status of a book in the library based on its issuance
 
 
 
