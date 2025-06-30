@@ -18,13 +18,13 @@ As a newly employed data analysist, i was asked to update the database for all b
    Create a database with tables for branches, employees, members, books, issued status, and return status.
 2. **CRUD Operations**:
    Update all the new inventories into the database using CRUD operations (Create, Read, Update, and Delete).
-3. **Perform Basic Analysis**
+3. **Perform Basic Analysis:**
 * Retrive all books in each category
 * Find Total Rental Income by Category
 * Find the Total Rental Income by Category_
 * List Members Who Registered in the Last 180 Days_
 * List Employees with Their Branch Manager's Name and their branch details_
-4. **Advanced Data Analysis**
+4. **Perform Advanced Data Analysis:**
 * Write a query to identify members who have overdue books (assume a 30-day return period).
 * Display the member's_id, member's name, book title, issue date, and days overdue.
 * Write a query to update the status of books in the books table to "Yes" when they are returned (based on entries in the return_status table).
@@ -33,24 +33,31 @@ As a newly employed data analysist, i was asked to update the database for all b
 * Find the top 3 employees who have processed the most book issues(books given out)
 * Provide a solution that updates the status of a book in the library based on its issuance
 
+![]()
 
 
-3. **CTAS (Create Table As Select)**:
-   Utilize CTAS to create new tables based on query results.
-4. **Advanced SQL Queries**:
-   Develop complex queries to analyze and retrieve specific data.
-
-### SQL Concept Applied
+### SQL Skills Applied
 1. **CRUD** (Create, Read, Update, Delete)
 2. **CTAS (Create Table As Select)**
-3. **Data Analysis & Findings**
+3. **Basic and Advanced Data Analysis**
 4. **SQL Presedure**
 5. **Testing Functions**
 
-## Dataset Info
 
+## Data Info 
+**Books Table(36 rows, 7 columns)**
+This table provides information of new and old book available in the all the granges. 
+**Branch Table (6 rows, 4 columns)**
+This table gives us understanding of each branch. 
+**Employees Table (12 rows, column 5)**
+This table provides information about the employees in Brain Point Library
+**Issued Status Table (36 rows and 6 columns)**
+This column provides information on books that have been rented.
+**Members Table (13 rows and 4 columns)**
+This table provides information about customers coming to rent book from the library.
+**Returned Status Table (19 rows, 5 columns):
+This table give details of books returned. 
 
-## Project Structure
 
 ### 1. Database Setup
 ![ERD](https://github.com/najirh/Library-System-Management---P2/blob/main/library_erd.png)
@@ -207,7 +214,7 @@ GROUP BY b.isbn, b.book_title;
 ```
 
 
-### 4. Data Analysis & Findings
+### 4. Basic Data Analysis & Findings
 
 The following SQL queries were used to address specific questions:
 
