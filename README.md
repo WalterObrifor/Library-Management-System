@@ -9,14 +9,22 @@
 
 ## Introduction
 Brain Point Library is a new popular library with five branches across the state. Recently the general manager has renovated all branches and restock them with all kinds of books and learning materials. Before now, the branch managers had been complaining of poor management decisions based on intuition or being optimistic. 
-As a newly employed data analysist, i was asked to update the database for all branches and come up with analysis that would help for business growth and increase revenue. My analysis covers the implementation of a database Library Management System using PostgreSQL, which includes performing CRUD (Create, Read, Upload, Delete) operations, performing Exploratory Data Analysis (EDA) and executing advanced SQL queries. I was able to help Brain Point branch managers understand the trends of the business with facts but also increase revenue to 50% overtime. 
+As a newly employed data analysist, i was asked to update the database for all branches and come up with analysis that would help for business growth and increase revenue. My analysis covers the implementation of a database Library Management System using PostgreSQL, which includes performing CRUD (Create, Read, Upload, Delete) operations, performing Exploratory Data Analysis (EDA) and executing advanced SQL queries. I was able to help Brain Point branch managers understand the trends of the business with facts and also increase revenue to 50% overtime. 
 
 ## Objectives (Problem Solving)
 
 1. **Set up the Library Management System Database**:
    Create and populate the database with tables for branches, employees, members, books, issued status, and return status.
 2. **CRUD Operations**:
-   Perform Create, Read, Update, and Delete operations on the data.
+   Update all the new inventories into the database using CRUD operations (Create, Read, Update, and Delete).
+
+
+3. Provide a solution that updates the status of a book in the library based on its issuance
+
+
+
+
+
 3. **CTAS (Create Table As Select)**:
    Utilize CTAS to create new tables based on query results.
 4. **Advanced SQL Queries**:
@@ -421,9 +429,6 @@ ON e.branch_id = b.branch_id
 GROUP BY 1, 2
 ```
 
-**Task 18: Identify Members Issuing High-Risk Books**  
-Write a query to identify members who have issued books more than twice with the status "damaged" in the books table. Display the member name, book title, and the number of times they've issued damaged books.    
-
 
 **Task 19: Stored Procedure**
 Objective:
@@ -490,48 +495,23 @@ WHERE isbn = '978-0-375-41398-8'
 
 
 
-**Task 20: Create Table As Select (CTAS)**
-Objective: Create a CTAS (Create Table As Select) query to identify overdue books and calculate fines.
-
-Description: Write a CTAS query to create a new table that lists each member and the books they have issued but not returned within 30 days. The table should include:
-    The number of overdue books.
-    The total fines, with each day's fine calculated at $0.50.
-    The number of books issued by each member.
-    The resulting table should show:
-    Member ID
-    Number of overdue books
-    Total fines
-
-
-
 ## Reports
 
 - **Database Schema**: Detailed table structures and relationships.
 - **Data Analysis**: Insights into book categories, employee salaries, member registration trends, and issued books.
 - **Summary Reports**: Aggregated data on high-demand books and employee performance.
 
+
 ## Conclusion
 
-This project demonstrates the application of SQL skills in creating and managing a library management system. It includes database setup, data manipulation, and advanced querying, providing a solid foundation for data management and analysis.
+This project demonstrates the application of SQL skills in creating and managing a library management system. It includes database setup, data manipulation, and advanced querying, providing a solid business information for data management and analysis in Brain Point Library.
 
-## How to Use
+## Author - Walter Obrifor
 
-1. **Clone the Repository**: Clone this repository to your local machine.
-   ```sh
-   git clone https://github.com/najirh/Library-System-Management---P2.git
-   ```
+This project showcases my PostgreSQL skills for database management and analysis. 
+To connect with me, kindly call me on +2349037580025 or 
+visit my LinkedIn for more information:
 
-2. **Set Up the Database**: Execute the SQL scripts in the `database_setup.sql` file to create and populate the database.
-3. **Run the Queries**: Use the SQL queries in the `analysis_queries.sql` file to perform the analysis.
-4. **Explore and Modify**: Customize the queries as needed to explore different aspects of the data or answer additional questions.
+- **LinkedIn**: [Connect with me professionally](https://https://www.linkedin.com/in/walter-o-1658b21a0?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
-## Author - Zero Analyst
-
-This project showcases SQL skills essential for database management and analysis. For more content on SQL and data analysis, connect with me through the following channels:
-
-- **YouTube**: [Subscribe to my channel for tutorials and insights](https://www.youtube.com/@zero_analyst)
-- **Instagram**: [Follow me for daily tips and updates](https://www.instagram.com/zero_analyst/)
-- **LinkedIn**: [Connect with me professionally](https://www.linkedin.com/in/najirr)
-- **Discord**: [Join our community for learning and collaboration](https://discord.gg/36h5f2Z5PK)
-
-Thank you for your interest in this project!
+Thank you for your interest in this project. Im looking forward to hearing from you soonest!
