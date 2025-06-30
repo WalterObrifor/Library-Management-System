@@ -1,5 +1,5 @@
 # Brain Point Library Management System 
-(The techniques used for this project can be used for any business operation)
+Note: The techniques used for this project can be used for any business operation
 
 ## Project Title: Brain Point Library Management System  
 ## Project Level: From Beginners Friendly To Advance  
